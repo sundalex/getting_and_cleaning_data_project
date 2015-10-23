@@ -1,10 +1,10 @@
-# README for Course Project
-
 # Getting and Cleaning Data - Course Project
+README for Course Project
+
 Data Science Specialization - John Hopkins University
 Course offered through Coursera
 
-Analysis script and Code Book written by A.Sund - October 22nd, 2015
+Written by A.Sund - October 22nd, 2015
 
 ### General Overview
 The Getting and Cleaning Data course focuses on obtaining raw data from the internet through a variety of sources and "cleaning" this data to make it readable to anyone who chooses to analyze it.

@@ -1,10 +1,10 @@
-# CodeBook for Course Project
-
 # Getting and Cleaning Data - Course Project
+CodeBook for Course Project
+
 Data Science Specialization - John Hopkins University
 Course offered through Coursera
 
-Analysis script and Code Book written by A.Sund - October 22nd, 2015
+Written by A.Sund - October 22nd, 2015
 
 ### Document Purpose
 To provide details about the experiment which was conducted to create the data set, as well as describe the details about how the script manipulates the data and produces a tidy data set.
